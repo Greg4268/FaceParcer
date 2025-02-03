@@ -15,7 +15,19 @@ This Python project detects and extracts faces from images using OpenCV’s Haar
 ### 1️⃣ **Clone the Repository**
 ```sh
 git clone https://github.com/your-username/your-repository.git
-cd your-repository
+cd FaceParser
+```
+### 2️⃣ **Set up a Virtual Environment**
+```sh
 python -m venv newenv
+```
+### 3️⃣ **Install Dependencies**
+```sh
 pip install -r requirements.txt
+```
+### 4️⃣ **Prepare Input Images**
+place images inside the pre-process-faces/ folder
+### 5️⃣ **Run The Program**
+```sh
 python script.py
+```
