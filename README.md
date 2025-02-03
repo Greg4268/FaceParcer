@@ -20,6 +20,7 @@ cd FaceParser
 ### 2️⃣ **Set up a Virtual Environment**
 ```sh
 python -m venv newenv
+source newenv/bin/activate
 ```
 ### 3️⃣ **Install Dependencies**
 ```sh
